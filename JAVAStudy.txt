@@ -1,0 +1,15 @@
+JAVA学习笔记：
+1、创建类
+public是Java的关键字，是java中的其中一个访问权限修饰符，用于修饰类/方法/变量，
+class是用于创建类的关键字，
+class后面的MyJavaApp,是类的名字，也叫标识符，由程序员自己定义。
+java中有4种访问权限修饰符：public 、friendly(也叫default)、private、protected,它们在权限控制方面是有区别的。
+
+Java中的标识符——标识符是用来给类、对象、方法、变量、接口和自定义数据类型命名的。
+2、数据类型：
+byte、short、int、float、double、char、String是Java中的数据类型，这些类型后面的名字（如：bNum），称为变量，
+也是由程序员自己定义的，这些定义中类中的变量，称为成员变量，也叫做对象的属性，当类创建对象时，可以有不一样的值。
+Java定义了四种整数类型：byte、short、int、long，它们都是有符号的，正的或负的整数，它们的取值范围如下：
+byte：最小的整数类型。 byte b,c  声名变量bc
+init:最常用的整数类型
+char:字符类型
